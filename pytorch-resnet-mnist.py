@@ -19,7 +19,7 @@
 # In[ ]:
 
 
-get_ipython().system('nvidia-smi')
+# get_ipython().system('nvidia-smi')
 
 
 # In[ ]:
