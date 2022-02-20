@@ -13,7 +13,7 @@
 # In[ ]:
 
 
-get_ipython().system('')
+# get_ipython().system('')
 
 
 # In[ ]:
@@ -25,8 +25,8 @@ get_ipython().system('nvidia-smi')
 # In[ ]:
 
 
-get_ipython().system('pip install pytorch_lightning -i https://pypi.tuna.tsinghua.edu.cn/simple')
-get_ipython().system('pip install sklearn -i https://pypi.tuna.tsinghua.edu.cn/simple')
+# get_ipython().system('pip install pytorch_lightning -i https://pypi.tuna.tsinghua.edu.cn/simple')
+# get_ipython().system('pip install sklearn -i https://pypi.tuna.tsinghua.edu.cn/simple')
 
 
 # In[ ]:
