@@ -1,0 +1,5 @@
+
+mnist/MNIST/raw/
+lightning_logs/
+.ipynb_checkpoints/
+resnet18_mnist.pt
